@@ -1,0 +1,10 @@
+<resources>
+    <color name="backgroundColor">#121212</color>
+    <color name="primaryTextColor">#C51162</color>
+    <color name="hintColor">#B0BEC5</color>
+    <color name="buttonColor">#FF6200EE</color>
+    <color name="xcolor">#FF0000</color> <!-- Rojo -->
+
+
+
+</resources>

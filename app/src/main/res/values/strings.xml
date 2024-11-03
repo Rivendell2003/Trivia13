@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="question_one">¿A qué logo pertenece la imagen?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="yes_message">¡Respuesta correcta!</string>
+    <string name="no_message">Inténtalo de nuevo.</string>
+    <string name="question_image_desc">Descripción de la imagen</string>
+
+    <string name="activity_second_text_0">¿Conoces este logo?</string>
+    <string name="activity_second_text_1">Sí</string>
+    <string name="activity_second_text_2">No</string>
+    <string name="activity_second_text_3">Enviar</string>
+
+    <string name="activity_main_text_0">Ingresa tu nombre</string>
+    <string name="activity_main_text_1">Iniciar</string>
+    <string name="hello_blank_fragment">Hola fragmento vacío</string>
+    <string name="Quiz" />
+</resources>
